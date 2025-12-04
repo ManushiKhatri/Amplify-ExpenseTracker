@@ -10,6 +10,14 @@
       "StackName": "amplify-expensetracker-dev-21141",
       "StackId": "arn:aws:cloudformation:us-east-2:025707649827:stack/amplify-expensetracker-dev-21141/3437f7b0-d0b0-11f0-9b94-0a5c470ed1c9",
       "AmplifyAppId": "dliqkx0buhzhe"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dliqkx0buhzhe",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
